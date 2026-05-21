@@ -21,6 +21,6 @@ This repository explores the strengths and unique use cases of three major Pytho
 The project is organized into Jupyter Notebooks, each dedicated to a specific library:
 
 ```text
-├── matplotlib_data_visualization.ipynb  # Core plotting, customizations, and subplots
-├── seaborn_data_visualization.ipynb     # Statistical data exploration and distribution plots
-└── plotly_data_visualization.ipynb      # Interactive charts, maps, and dynamic visuals
+├── matplotlib_data_visualization.ipynb 
+├── seaborn_data_visualization.ipynb    
+└── plotly_data_visualization.ipynb 
